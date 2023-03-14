@@ -44,8 +44,8 @@ function App() {
       <Navbar />
       <Background_Upper />
       <section className="text-gray-600 body-font">
-        <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-          <div className="flex flex-col items-center w-full max-w-4xl pt-48 text-center lg:w-[80%] lg:pt-20 xl:pt-30 lg:text-center mb-5">
+        <div className="container mx-auto flex px-5 py-10 items-center flex-col">
+          <div className="flex flex-col items-center w-full max-w-4xl pt-5 text-center lg:w-[80%] lg:pt-20 xl:pt-30 lg:text-center mb-5">
             <span className="title-font text-sm mb-4 font-bold text-gray-900">
               Please Note That is not official Page (It is temporary site it
               will down with in 24HRS). Please Visit 
